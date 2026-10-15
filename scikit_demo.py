@@ -1,7 +1,7 @@
 from sklearn.linear_model import LinearRegression
 
 # Step 1: Prepare the data
-hours = [[1], [2], [3], [4], [5]]
+hours = [[1], [2], [3], [5], [5]]
 marks = [20, 30, 40, 50, 60]
 
 # Step 2: Create the machine learning model
